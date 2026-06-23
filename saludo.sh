@@ -1,2 +1,2 @@
 echo "Hola mundo con Jenkins y github"
-echo "Probando triggers desde github y jenkins"
+echo "Probando triggers-Polling SCM desde github y jenkins"
